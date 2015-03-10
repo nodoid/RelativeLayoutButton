@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="RelativeLayoutButton/RelativeLayoutButton.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (Jelly Bean)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RelativeLayoutButton/MainActivity.cs">
+    <Files>
+      <File FileName="RelativeLayoutButton/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="RelativeLayoutButton/Resources/values/Strings.xml" Line="1" Column="1" />
+      <File FileName="RelativeLayoutButton/RelativeLayoutButton.cs" Line="10" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RelativeLayoutButton AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
